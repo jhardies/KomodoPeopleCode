@@ -1,0 +1,22 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "If", 
+  "value": [
+    "<% if (ko.snippets.rightOfFirstKeyword()) {%>", 
+    "If [[%tabstop:EXPR]] [[%soft:Then]]", 
+    "    [[%tabstop:#code]]", 
+    "Else", 
+    "    [[%tabstop:#code]]", 
+    "End-If;", 
+    "<% } else {", 
+    "  throw new ko.snippets.RejectedSnippet(\"not at start of line\");", 
+    "   } %>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "true", 
+  "treat_as_ejs": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
+}

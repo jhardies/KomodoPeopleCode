@@ -1,0 +1,281 @@
+1:lexer resource
+2:1
+3:2
+4:0
+48:1:2:0
+11:10
+12:PeopleCode
+13
+14:0:0
+16:0:5
+15:0:1
+14:1:15
+16:1:21
+15:1:0
+14:2:22
+16:2:29
+15:2:0
+14:3:31
+16:3:46
+15:3:2
+14:4:49
+16:4:56
+15:4:0
+18:0
+19:1
+18:3
+19:0
+11:8214
+12:%ApplicationLogFence_Error %ApplicationLogFence_Level1 %ApplicationLogFence
+12:_Level2 %ApplicationLogFence_Level3 %ApplicationLogFence_Warning %AsOfDate 
+12:%AuthenticationToken %BPName %ClientDate %ClientTimeZone %CompIntfcName %Co
+12:mponent %ContentID %ContentType %Copyright %Currency %Date %DateTime %DbNam
+12:e %DbServerName %DbType %DeviceType %EmailAddress %EmployeeId %ExternalAuth
+12:Info %FilePath %HPTabName %Import %IntBroker %IsMultiLanguageEnabled %Langu
+12:age %Language_Base %Language_Data %Language_User %LocalNode %Market %MaxInt
+12:erlinkSize %MaxMessageSize %Menu %MobilePage %Mode %NavigatorHomePermission
+12:List %Node %OperatorClass %OperatorId %OperatorRowLevelSecurityClass %OutDe
+12:stFormat %OutDestType %PID %PSAuthResult %Page %Panel %PanelGroup %Password
+12:Expired %PerfTime %PermissionLists %Portal %PrimaryPermissionList %ProcessP
+12:rofilePermissionList %Request %Request %Response %ResultDocument %Roles %Ro
+12:wSecurityPermissionList %RunningInPortal %SMTPBlackberryReplyTo %SMTPGuaran
+12:teed %SMTPSender %SQLRows %ServerTimeZone %Session %SignOnUserPswd %SignonU
+12:serId %SyncServer %This %ThisMobileObject %Time %TransformData %UserDescrip
+12:tion %UserId %WLInstanceID %WLName Abs AccruableDays AccrualFactor Acos Act
+12:iveRowCount AddAttachment AddEmailAddress AddKeyListItem AddKeyListItem Add
+12:SystemPauseTimes AddToDate AddToDateTime AddToTime All AllOrNone AllowEmplI
+12:dChg Amortize And ApiObject Array Array2 As Asin Atan BPurgeDomainStatus Bl
+12:ackScholesCall BlackScholesPut BlackScholesPut Boolean BootstrapYTMs Break 
+12:BulkDeleteField BulkInsertField BulkModifyPageFieldOrder BulkUpdateIndexes 
+12:CallAppEngine CancelPubHeaderXmlDoc CancelPubXmlDoc CancelSubXmlDoc Catch C
+12:hangeEmailAddress Char CharType CheckMenuItem Class Clean ClearKeyList Clea
+12:rKeyList ClearSearchDefault ClearSearchEdit Code Code CollectGarbage Commit
+12:Work CompIntfc CompareLikeFields Component ComponentChanged ConnectorReques
+12:t ConnectorRequestURL Constant ContainsCharType ContainsOnlyCharType Contin
+12:ue ConvertChar ConvertChar ConvertCurrency ConvertDatetimeToBase ConvertDat
+12:etimeToBase ConvertRate ConvertTimeToBase CopyAttachments CopyFields CopyFr
+12:omJavaArray CopyFromJavaArray CopyRow CopyToJavaArray CopyToJavaArray Cos C
+12:ot Count CreateAnalyticInstance CreateArray CreateArray CreateArrayAny Crea
+12:teArrayRept CreateArrayRept CreateDirectory CreateException CreateException
+12: CreateException CreateJavaArray CreateJavaArray CreateJavaObject CreateJav
+12:aObject CreateMCFIMInfo CreateMessage CreateMessage CreateObject CreateObje
+12:ct CreateObject CreateObjectArray CreateObjectArray CreateProcessRequest Cr
+12:eateProcessRequest CreateRecord CreateRecord CreateRowset CreateRowset Crea
+12:teRowsetCache CreateSOAPDoc CreateSOAPDoc CreateSOAPDoc CreateSQL CreateSQL
+12: CreateWSDLMessage CreateWSDLMessage CreateXmlDoc CreateXmlDoc CubicSpline 
+12:CurrEffDt CurrEffRowNum CurrEffSeq CurrentLevelNumber CurrentRowNumber DBCS
+12:Trim DBPatternMatch Date Date3 DatePart DateTime6 DateTimeToHTTP DateTimeTo
+12:LocalizedString DateTimeToTimeZone DateTimeToTimeZone DateTimeValue DateVal
+12:ue Day Days Days360 Days365 DeQueue Declare Decrypt Degrees DeleteAttachmen
+12:t DeleteEmailAddress DeleteImage DeleteItem DeleteRecord DeleteRow DeleteSQ
+12:L DeleteSystemPauseTimes DetachAttachment DisableMenuItem DiscardRow DoCanc
+12:el DoModal DoModalComponent DoSave DoSaveNow DoSaveNow Else EnQueue EnableM
+12:enuItem EncodeURL EncodeURLForQueryString Encrypt EncryptNodePswd End End-C
+12:lass End-Evaluate End-For End-Function End-If End-Method End-Try End-While 
+12:EndMessage EndModal EndModalComponent Error Error Error EscapeHTML EscapeJa
+12:vascriptString EscapeWML Evaluate Exact Exec ExecuteRolePeopleCode ExecuteR
+12:oleQuery ExecuteRoleWorkflowQuery Exit Exp ExpandBindVar ExpandEnvVar Expan
+12:dSqlBinds Fact False FetchSQL FetchValue Field FieldChanged File FileExists
+12: Find FindCodeSetValues FindFiles FlushBulkInserts For FormatDateTime Forwa
+12:rd Function GenerateActGuideContentUrl GenerateActGuidePortalUrl GenerateAc
+12:tGuideRelativeUrl GenerateComponentContentRelURL GenerateComponentContentUR
+12:L GenerateComponentPortalRelURL GenerateComponentPortalURL GenerateComponen
+12:tRelativeURL GenerateExternalPortalURL GenerateExternalRelativeURL Generate
+12:HomepagePortalURL GenerateHomepageRelativeURL GenerateMobileTree GenerateQu
+12:eryContentURL GenerateQueryPortalURL GenerateQueryRelativeURL GenerateScrip
+12:tContentRelURL GenerateScriptContentURL GenerateScriptPortalRelURL Generate
+12:ScriptPortalURL GenerateScriptRelativeURL GenerateTree GenerateWorklistPort
+12:alURL GenerateWorklistRelativeURL GetAESection GetAnalyticGridCreateObject 
+12:GetAnalyticInstance GetArchPubHeaderXmlDoc GetArchPubXmlDoc GetArchSubXmlDo
+12:c GetAttachment GetBiDoc GetCalendarDate GetChart GetChartURL GetCwd GetEnv
+12: GetField GetFile GetGrid GetHTMLText GetImageExtents GetInterlink GetJavaC
+12:lass GetLevel0 GetLevel0 GetMessage GetMessageInstance GetMessageXmlDoc Get
+12:MethodNames GetNRXmlDoc GetNextNumber GetNextNumberWithGaps GetNextNumberWi
+12:thGapsCommit GetNextProcessInstance GetPage GetProgramFunctionInfo GetPubCo
+12:ntractInstance GetPubHeaderXmlDoc GetPubXmlDoc GetRecord GetRelField GetRow
+12: GetRowset GetRowsetCache GetSQL GetSQL GetSession GetSetId GetStoredFormat
+12: GetSubContractInstance GetSubXmlDoc GetSyncLogData GetSyncLogData GetURL G
+12:etUserOption GetWLFieldValue Global Gray Hash HermiteCubic Hide HideMenuIte
+12:m HideRow HideScroll HistVolatility Hour IBPurgeNodesDown Idiv If Import In
+12:boundPublishXmlDoc InitChat InsertImage InsertItem InsertRow Instance Int I
+12:nteger Integer IsAlpha IsAlphaNumeric IsAlphaNumeric IsDate IsDateTime IsDa
+12:ylightSavings IsDaylightSavings IsDigits IsDigits IsDisconnectedClient IsHi
+12:dden IsMenuItemAuthorized IsMessageActive IsModal IsModalComponent IsNumber
+12: IsSearchDialog IsTime IsUserInPermissionList IsUserInRole IsUserNumber Ite
+12:m LTrim Left Len LinearInterp Ln Local Log10 LogObjectUse Lower MCFBroadcas
+12:t MSFGetNextNumber MarkPrimaryEmailAddress MarkWLItemWorked Max MessageBox 
+12:Method Min Minute Mod Month MsgGet MsgGetExplainText MsgGetText NextEffDt N
+12:extRelEffDt NodeDelete NodeRename NodeSaveAs NodeTranDelete None NotifyQ Nu
+12:ll Number NumberToDisplayString NumberToString ObjectDoMethod ObjectDoMetho
+12:dArray ObjectGetProperty ObjectSetProperty OnlyOne OnlyOneOrNone Or PeopleC
+12:ode PingNode PingNode PriorEffDt PriorRelEffDt PriorValue Private Product P
+12:roper PublishXmlDoc PutAttachment Quote Quote RTrim Radians Rand ReSubmitPu
+12:bHeaderXmlDoc ReSubmitPubXmlDoc ReSubmitSubXmlDoc ReValidateNRXmlDoc Record
+12: RecordChanged RecordDeleted RecordNew RelNodeTranDelete RemoteCall RemoveD
+12:irectory RenameDBField RenamePage RenameRecord Repeat Replace Rept Return R
+12:eturnToServer Returns RevalidatePassword Right Round RoundCurrency RowCount
+12: RowFlush RowScrollSelect RowScrollSelectNew Rowset SQL SQLExec ScrollFlush
+12: ScrollSelect ScrollSelectNew Second SendMail SetAuthenticationResult SetCh
+12:annelStatus SetComponentChanged SetCursorPos SetDBFieldAuxFlag SetDBFieldCh
+12:arDefn SetDBFieldFormat SetDBFieldFormatLength SetDBFieldLabel SetDBFieldLe
+12:ngth SetDBFieldNotUsed SetDefault SetDefaultAll SetDefaultNext SetDefaultNe
+12:xt SetDefaultNextRel SetDefaultPrior SetDefaultPrior SetDefaultPriorRel Set
+12:DisplayFormat SetLabel SetLanguage SetMessageStatus SetNextPage SetPageFiel
+12:dPageFieldName SetPasswordExpired SetPostReport SetReEdit SetRecFieldEditTa
+12:ble SetRecFieldKey SetSearchDefault SetSearchDialogBehavior SetSearchEdit S
+12:etTempTableInstance SetTracePC SetTraceSQL SetUserOption SetupScheduleDefnI
+12:tem Sign Sin SinglePaymentPV SortScroll Split Split Sqrt StartWork Step Sto
+12:pFetching StoreSQL String String Substitute Substring SwitchUser SyncReques
+12:tXmlDoc Tan Then Throw Throw Time Time3 TimePart TimeToTimeZone TimeValue T
+12:imeZoneOffset To TotalRowCount Transfer TransferExact TransferMobilePage Tr
+12:ansferNode TransferPage TransferPortal Transform TransformEx TransformExCac
+12:he TreeDetailInNode TriggerBusinessEvent True Truncate Try Try UnCheckMenuI
+12:tem Unencode Ungray Unhide UnhideRow UnhideScroll UniformSeriesPV UpdateSys
+12:Version UpdateValue UpdateXmlDoc Upper Value ValueUser ViewAttachment ViewC
+12:ontentURL ViewURL Warning Warning Weekday When While WinEscape WinExec WinM
+12:essage WriteToLog Year apiobject array array2 as boolean class date datetim
+12:e6 end end-class end-method get import instance int integer method number o
+12:f private record rowset sql string time
+21
+22:45:44
+32:2
+33:0:40:3
+33:1:31:2
+34:9
+35:1
+11:1
+12:.
+36:2:-1:-1:1:2:0:0:0
+40
+37:3
+35:2
+11:4
+12:rem 
+36:1:31:-1:0:3:0:0:0
+40
+11:4
+12:Rem 
+36:1:31:-1:0:3:0:0:0
+40
+11:2
+12:/*
+36:1:31:-1:0:4:0:0:0
+40
+11:2
+12:/+
+36:1:31:-1:0:4:0:0:0
+40
+11:2
+12:<*
+36:1:31:-1:0:5:0:0:0
+40
+11:10
+12:[\s	\r\n]+
+36:2:-1:-1:0:-1:0:0:0
+40
+11:1
+12:"
+36:1:31:-1:0:6:0:0:0
+40
+11:1
+12:`
+36:1:31:-1:0:7:0:0:0
+40
+11:17
+12:0[Xx][0-9a-fA-F]+
+36:2:31:42:0:-1:0:0:0
+40
+11:12
+12:[-+]?0[0-7]*
+36:2:31:42:0:-1:0:0:0
+40
+11:11
+12:[-+]?[1-9]+
+36:2:31:42:0:-1:0:0:0
+40
+11:41
+12:[%&_a-zA-Z\x80-\xff][_a-zA-Z\x80-\xff\d]*
+36:2:31:45:0:-1:0:0:0
+40
+11:41
+12:[!#%%&\(\)\*\+,-\.\/:;<=>\?@\[\]\^\{\}~|]
+36:2:31:46:0:-1:0:0:0
+40
+11:4
+12:NULL
+36:4:31:-1:0:-1:0:0:0
+41
+35:3
+11:1
+12:;
+36:2:-1:40:0:2:0:0:0
+40
+11:4
+12:NULL
+36:4:40:-1:0:-1:0:0:0
+41
+35:4
+11:2
+12:*/
+36:1:-1:41:0:2:0:0:0
+40
+11:4
+12:NULL
+36:4:41:-1:0:-1:0:0:0
+41
+11:2
+12:+/
+36:1:-1:41:0:2:0:0:0
+40
+11:4
+12:NULL
+36:4:41:-1:0:-1:0:0:0
+41
+35:5
+11:2
+12:*>
+36:1:-1:41:0:2:0:0:0
+40
+11:4
+12:NULL
+36:4:41:-1:0:-1:0:0:0
+41
+35:6
+11:1
+12:"
+36:1:-1:43:0:2:0:0:0
+40
+11:2
+12:""
+36:2:-1:-1:0:-1:0:0:0
+40
+11:4
+12:NULL
+36:4:43:-1:0:-1:0:0:0
+41
+35:7
+11:1
+12:`
+36:1:-1:43:0:2:0:0:0
+40
+11:2
+12:``
+36:2:-1:-1:0:-1:0:0:0
+40
+11:4
+12:NULL
+36:4:43:-1:0:-1:0:0:0
+41
+35:8
+11:1
+12:'
+36:1:-1:43:0:2:0:0:0
+40
+11:4
+12:\'\'
+36:2:-1:-1:0:-1:0:0:0
+40
+11:4
+12:NULL
+36:4:43:-1:0:-1:0:0:0
+41

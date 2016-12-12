@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "While", 
+  "value": [
+    "<% if (ko.snippets.rightOfFirstKeyword()) {%>", 
+    "While [[%tabstop:EXPR]]", 
+    "    [[%tabstop:#code]]", 
+    "End-While;", 
+    "<% } else {", 
+    "  throw new ko.snippets.RejectedSnippet(\"not at start of line\");", 
+    "   } %>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "true", 
+  "treat_as_ejs": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
+}

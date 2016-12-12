@@ -1,0 +1,3 @@
+manifest components/component.manifest
+category udl-lexers peoplecode_language@hardies.co 1
+category toolbox peoplecode_language@hardies.co 1

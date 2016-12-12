@@ -1,0 +1,4 @@
+category komodo-language PeopleCode @activestate.com/koLanguage?language=PeopleCode;1
+contract @activestate.com/koLanguage?language=PeopleCode;1 {c7dc3cba-adcc-41e9-81a9-3dbef280adca}
+component {c7dc3cba-adcc-41e9-81a9-3dbef280adca} koPeopleCode_UDL_Language.py
+category komodo-language-info PeopleCode %7B%22name%22%3A%20%22PeopleCode%22%2C%20%22defaultExtension%22%3A%20%22.pc%22%7D
