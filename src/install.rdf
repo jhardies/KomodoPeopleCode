@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>peoplecode_language@hardies.co</em:id>
     <em:name>PeopleCode Language</em:name>
-    <em:version>0.1.19</em:version>
+    <em:version>0.1.20</em:version>
     <em:description>PeopleCode Language for Komodo</em:description>
     <em:creator>Jason Deschard</em:creator>
     <em:homepageURL></em:homepageURL>
@@ -15,7 +15,7 @@
       <Description>
         <em:id>{36E66FA0-F259-11D9-850E-000D935D3368}</em:id>
         <em:minVersion>7.0</em:minVersion>
-        <em:maxVersion>10.*</em:maxVersion>
+        <em:maxVersion>11.*</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication> <!-- Komodo Edit -->
